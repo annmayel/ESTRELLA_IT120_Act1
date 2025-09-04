@@ -1,0 +1,7 @@
+FirstName: J-Ann Mayel 
+MiddleName: Sadagnot
+LastName: Estrella
+Age: 20
+Birthdate: February 10, 2005
+Gender: Female
+Contacts: jannyelsadagnot@gmail.com
