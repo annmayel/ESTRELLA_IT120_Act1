@@ -1,7 +1,11 @@
-FirstName: J-Ann Mayel 
+FirstName: J-Ann Mayel
 MiddleName: Sadagnot
 LastName: Estrella
 Age: 20
 Birthdate: February 10, 2005
-Gender: Female
-Contacts: jannyelsadagnot@gmail.com
+Birthplace: Butuan City, Philippines
+Religion: Roman Catholic
+Father's Name: Elmer C. Estrella
+Father's Occupation: DECEASED
+Mother's Name: Juyce C. Estrella
+Mother's Occupation: Institutional Worker
